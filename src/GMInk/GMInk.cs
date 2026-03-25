@@ -1,4 +1,4 @@
-﻿using Ink.Runtime;
+﻿using Ink.Runtime; 
 using System.Runtime.InteropServices;
 using System.Diagnostics.CodeAnalysis;
 namespace GMWolf.GMInk
